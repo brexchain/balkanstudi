@@ -1,0 +1,10 @@
+{
+  "name": "balkanRemix: QuintStudioPeRO",
+  "description": "Songwriter's Toolkit focusing on Balkan New Wave & Yugo Rock chord structures, circle of fifths, tuner, and custom pedalboards.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
